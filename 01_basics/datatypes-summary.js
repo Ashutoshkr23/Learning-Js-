@@ -50,6 +50,6 @@ console.log(typeof(score))
 // interview question 
 // typeof(null) = object
 
-// Assignment check typeof datatype of each 
+// Assignment check typeof datatype of each  
 
 
